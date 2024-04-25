@@ -104,14 +104,14 @@ class OutputFormat(Enum):
 
 class Steps(IntEnum):
     QUALITY = 60
-    SPEED = 30
+    SPEED = 8
     EXTREME_SPEED = 8
     LIGHTNING = 4
 
 
 class StepsUOV(IntEnum):
     QUALITY = 36
-    SPEED = 18
+    SPEED = 8
     EXTREME_SPEED = 8
     LIGHTNING = 4
 
