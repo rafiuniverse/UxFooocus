@@ -40,7 +40,7 @@
         "Fooocus V2",
         "Cinematic"
     ],
-    "default_aspect_ratio": "1219*832",
+    "default_aspect_ratio": "1216*832",
     "checkpoint_downloads": {
         "RakibuniverseV3.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/RakibuniverseV3.safetensors"
     },
