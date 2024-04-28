@@ -145,5 +145,26 @@
      "name": "Simple Flat Illustration", 
      "prompt": "simple flat illustration {prompt} . basic geometry, limited color palette, flat design, subtle shadows", 
      "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
-   }
+   },
+     {
+    "name": "Monochromatic",
+    "prompt": "simple monochromatic illustration {prompt} . single-color scheme, limited shapes, flat design, subtle shadows",
+    "negative_prompt": "multiple colors, intricate patterns, busy background, detailed textures, complex compositions"
+  },
+  {
+    "name": "Geometric",
+    "prompt": "simple geometric illustration {prompt} . clean lines, geometric shapes, limited color palette, flat design, minimal embellishments",
+    "negative_prompt": "organic shapes, intricate details, busy background, bold colors, complex compositions"
+  },
+  {
+    "name": "Simple Shapes",
+    "prompt": "simple shape-based illustration {prompt} . basic shapes, limited color scheme, flat design, subtle shadows",
+    "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+  },
+  ...
+  {
+    "name": "40 Flat",
+    "prompt": "flat illustration {prompt} with 40% of the composition dedicated to negative space. limited color palette, clean lines, minimal embellishments",
+    "negative_prompt": "busy background, detailed textures, intricate patterns, bold colors, complex compositions"
+  }
 ]
