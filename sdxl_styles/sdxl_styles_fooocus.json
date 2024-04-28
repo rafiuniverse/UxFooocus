@@ -45,5 +45,70 @@
     "name": "SR Rakib Minimalistic vector",
     "prompt": "minimalistic vector art {prompt} . clean lines, subtle gradients, understated elegance, serene atmosphere",
     "negative_prompt": "cluttered, busy, noisy, complex, chaotic, overcrowded, cluttered"
+  },
+    {
+    "name": "Simple Shapes",
+    "prompt": "simple shapes illustration {prompt} . basic geometry, limited color palette, flat design, subtle shadows", 
+    "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+  },
+  {
+    "name": "Basic Icons",
+    "prompt": "basic icons illustration {prompt} . simple shapes, limited color palette, flat design, minimalist style", 
+    "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+  },
+  {
+    "name": "Flat Design",
+    "prompt": "flat design illustration {prompt} . clean lines, limited color palette, geometric shapes, flat design, subtle shadows", 
+    "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+  },
+  {
+    "name": "Geometric Patterns",
+    "prompt": "geometric patterns illustration {prompt} . repeating shapes, limited color palette, flat design, subtle shadows", 
+    "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+  },
+  {
+    "name": "Simple Typography",
+    "prompt": "simple typography illustration {prompt} . clean lines, limited color palette, geometric shapes, flat design, subtle shadows", 
+    "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+  },
+  {
+    "name": "Basic Grids",
+    "prompt": "basic grids illustration {prompt} . simple layout, limited color palette, flat design, subtle shadows", 
+    "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+  },
+  {
+    "name": "Simple Icons",
+    "prompt": "simple icons illustration {prompt} . basic shapes, limited color palette, flat design, minimalist style", 
+    "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+  },
+  {
+    "name": "Clean Lines",
+    "prompt": "clean lines illustration {prompt} . precise drawing, limited color palette, geometric shapes, flat design, subtle shadows", 
+    "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+  },
+  {
+    "name": "Basic Illustration",
+    "prompt": "basic illustration illustration {prompt} . simple shapes, limited color palette, flat design, minimalist style", 
+    "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+  },
+  {
+    "name": "Simple Compositions",
+    "prompt": "simple compositions illustration {prompt} . clean lines, limited color palette, geometric shapes, flat design, subtle shadows", 
+    "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+  },
+  {
+    "name": "Minimalist Graphics",
+    "prompt": "minimalist graphics illustration {prompt} . simple shapes, limited color palette, flat design, minimalist style", 
+    "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+  },
+  {
+    "name": "Basic Color Palette",
+    "prompt": "basic color palette illustration {prompt} . simple shapes, limited color palette, flat design, subtle shadows", 
+    "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+  },
+  {
+    "name": "Simple Shapes Composition",
+    "prompt": "simple shapes composition illustration {prompt} . basic geometry, limited color palette, flat design, subtle shadows", 
+    "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
   }
 ]
