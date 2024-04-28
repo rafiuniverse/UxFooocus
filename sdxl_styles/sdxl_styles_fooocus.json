@@ -110,5 +110,40 @@
     "name": "Simple Shapes Composition",
     "prompt": "simple shapes composition illustration {prompt} . basic geometry, limited color palette, flat design, subtle shadows", 
     "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
-  }
+  },
+    {
+     "name": "Basic Illustration Style", 
+     "prompt": "basic illustration style {prompt} . simple shapes, limited color palette, flat design, minimalist style", 
+     "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+   },
+   {
+     "name": "Simple Flat Design", 
+     "prompt": "simple flat design illustration {prompt} . clean lines, limited color palette, geometric shapes, flat design, subtle shadows", 
+     "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+   },
+   {
+     "name": "Basic Minimalist Design", 
+     "prompt": "basic minimalist design illustration {prompt} . simple shapes, limited color palette, flat design, minimalist style", 
+     "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+   },
+   {
+     "name": "Simple Graphic Illustration", 
+     "prompt": "simple graphic illustration {prompt} . basic geometry, limited color palette, flat design, subtle shadows", 
+     "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+   },
+   {
+     "name": "Basic Simple Design", 
+     "prompt": "basic simple design illustration {prompt} . clean lines, limited color palette, geometric shapes, flat design, subtle shadows", 
+     "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+   },
+   {
+     "name": "Minimalist Graphics Style", 
+     "prompt": "minimalist graphics style illustration {prompt} . simple shapes, limited color palette, flat design, minimalist style", 
+     "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+   },
+   {
+     "name": "Simple Flat Illustration", 
+     "prompt": "simple flat illustration {prompt} . basic geometry, limited color palette, flat design, subtle shadows", 
+     "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+   }
 ]
