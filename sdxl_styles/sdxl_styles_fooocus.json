@@ -47,7 +47,7 @@
     "negative_prompt": "cluttered, busy, noisy, complex, chaotic, overcrowded, cluttered"
   },
     {
-    "name": "Simple Shapes",
+    "name": "Simple Shapes 1",
     "prompt": "simple shapes illustration {prompt} . basic geometry, limited color palette, flat design, subtle shadows", 
     "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
   },
@@ -157,7 +157,7 @@
     "negative_prompt": "organic shapes, intricate details, busy background, bold colors, complex compositions"
   },
   {
-    "name": "Simple Shapes",
+    "name": "Simple Shapes 2",
     "prompt": "simple shape-based illustration {prompt} . basic shapes, limited color scheme, flat design, subtle shadows",
     "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
   },
@@ -166,5 +166,21 @@
     "name": "40 Flat",
     "prompt": "flat illustration {prompt} with 40% of the composition dedicated to negative space. limited color palette, clean lines, minimal embellishments",
     "negative_prompt": "busy background, detailed textures, intricate patterns, bold colors, complex compositions"
-  }
+  },
+     {
+    "name": "Limited Color", 
+    "prompt": "simple illustration {prompt} with limited color palette (max 3 colors). flat design, clean lines, minimal embellishments", 
+    "negative_prompt": "multiple colors, intricate patterns, busy background, detailed textures, complex compositions"
+   },
+   {
+    "name": "Negative Space", 
+    "prompt": "flat illustration {prompt} with significant negative space. limited color palette, clean lines, minimal embellishments", 
+     "negative_prompt": "busy background, detailed textures, intricate patterns, bold colors, complex compositions"
+   },
+   ...
+   {
+    "name": "Simplify Shapes", 
+    "prompt": "illustration {prompt} where shapes are simplified and reduced to basic forms. limited color palette, flat design, minimal embellishments", 
+     "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+   }
 ]
