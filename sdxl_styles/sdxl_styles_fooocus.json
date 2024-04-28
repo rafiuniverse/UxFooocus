@@ -182,5 +182,21 @@
     "name": "Simplify Shapes", 
     "prompt": "illustration {prompt} where shapes are simplified and reduced to basic forms. limited color palette, flat design, minimal embellishments", 
      "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
-   }
+   },
+    {
+    "name": "Clean Lines", 
+     "prompt": "illustration {prompt} with clean lines and minimal embellishments. limited color palette, flat design, subtle shadows", 
+      "negative_prompt": "busy background, intricate patterns, detailed textures, bold colors, complex compositions"
+    },
+    {
+    "name": "Minimal Patterns", 
+     "prompt": "simple illustration {prompt} with minimal repeating patterns. limited color palette, flat design, clean lines", 
+      "negative_prompt": "intricate patterns, busy background, detailed textures, bold colors, complex compositions"
+    },
+    ...
+    {
+    "name": "Simple Forms", 
+     "prompt": "illustration {prompt} featuring simple forms and shapes. limited color palette, flat design, minimal embellishments", 
+      "negative_prompt": "detailed textures, intricate patterns, busy background, bold colors, complex compositions"
+    }
 ]
