@@ -1,5 +1,5 @@
 {
-    "default_model": "rakibuniverselightv6.safetensors",
+    "default_model": "playground-v2.5-1024px-aesthetic.fp16.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -10,7 +10,7 @@
         ],
          [
             true,
-            "None",
+            "sdxl_lightning_8step_lora.safetensors",
             1.0
         ],
          [
@@ -42,15 +42,15 @@
     ],
     "default_aspect_ratio": "1216*832",
     "checkpoint_downloads": {
-        "rakibuniverselightv6.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/rakibuniverselightv6.safetensors"
+        "playground-v2.5-1024px-aesthetic.fp16.safetensors": "https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic/resolve/main/playground-v2.5-1024px-aesthetic.fp16.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "Hyper-SDXL-8steps-lora.safetensors": "https://huggingface.co/rafiislam/Lora/resolve/main/Hyper-SDXL-8steps-lora.safetensors",
+        "sdxl_lightning_8step_lora.safetensors": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_8step_lora.safetensors",
         "mymj.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/mymj.safetensors"
     },
     "previous_default_models": [
-        "rakibuniverselightv6.safetensors",
+        "playground-v2.5-1024px-aesthetic.fp16.safetensors",
         "juggernautXL_v6Rundiffusion.safetensors"
     ]
 }
