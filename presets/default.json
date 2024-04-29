@@ -11,12 +11,12 @@
          [
             true,
             "mymj.safetensors",
-            0.2
+            0.1
         ],
          [
             true,
-            "sdxl_lightning_8step_lora.safetensors",
-            0.7
+            "None",
+            1.0
         ],
         [
             true,
@@ -47,8 +47,7 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "Hyper-SDXL-8steps-lora.safetensors": "https://huggingface.co/rafiislam/Lora/resolve/main/Hyper-SDXL-8steps-lora.safetensors",
-        "mymj.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/mymj.safetensors",
-        "sdxl_lightning_8step_lora.safetensors": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_8step_lora.safetensors"
+        "mymj.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/mymj.safetensors"
     },
     "previous_default_models": [
         "rakibuniverselightv6.safetensors",
