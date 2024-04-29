@@ -5,8 +5,8 @@
     "default_loras": [
         [
             true,
-            "sdxl_lightning_8step_lora.safetensors",
-            1.0
+            "dalle-3-xl-lora-v2.safetensors",
+            0.5
         ],
          [
             true,
@@ -46,7 +46,7 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "sdxl_lightning_8step_lora.safetensors": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_8step_lora.safetensors",
+        "dalle-3-xl-lora-v2.safetensors": "https://huggingface.co/ehristoforu/dalle-3-xl-v2/resolve/main/dalle-3-xl-lora-v2.safetensors",
         "mymj.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/mymj.safetensors"
     },
     "previous_default_models": [
