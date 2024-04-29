@@ -15,8 +15,8 @@
         ],
          [
             true,
-            "None",
-            1.0
+            "sdxl_lightning_8step_lora.safetensors",
+            0.7
         ],
         [
             true,
@@ -47,7 +47,8 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "dalle-3-xl-lora-v2.safetensors": "https://huggingface.co/ehristoforu/dalle-3-xl-v2/resolve/main/dalle-3-xl-lora-v2.safetensors",
-        "mymj.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/mymj.safetensors"
+        "mymj.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/mymj.safetensors",
+        "sdxl_lightning_8step_lora.safetensors": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_8step_lora.safetensors"
     },
     "previous_default_models": [
         "rakibuniverselightv6.safetensors",
