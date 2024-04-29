@@ -1,5 +1,5 @@
 {
-    "default_model": "playground-v2.5-1024px-aesthetic.fp16.safetensors",
+    "default_model": "SSD-1B-A1111.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -42,7 +42,7 @@
     ],
     "default_aspect_ratio": "1216*832",
     "checkpoint_downloads": {
-        "playground-v2.5-1024px-aesthetic.fp16.safetensors": "https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic/resolve/main/playground-v2.5-1024px-aesthetic.fp16.safetensors"
+        "SSD-1B-A1111.safetensors": "https://huggingface.co/segmind/SSD-1B/resolve/main/SSD-1B-A1111.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
@@ -50,7 +50,7 @@
         "mymj.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/mymj.safetensors"
     },
     "previous_default_models": [
-        "playground-v2.5-1024px-aesthetic.fp16.safetensors",
+        "SSD-1B-A1111.safetensors",
         "juggernautXL_v6Rundiffusion.safetensors"
     ]
 }
