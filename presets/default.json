@@ -5,13 +5,13 @@
     "default_loras": [
         [
             true,
-            "mymj.safetensors",
-            0.2
+            "sdxl_lightning_8step_lora.safetensors",
+            1.0
         ],
          [
             true,
-            "sdxl_lightning_8step_lora.safetensors",
-            1.0
+            "mymj.safetensors",
+            0.2
         ],
          [
             true,
