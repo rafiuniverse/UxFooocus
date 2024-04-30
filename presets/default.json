@@ -3,16 +3,15 @@
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
-        [
-            true,
-            "Hyper-SDXL-8steps-lora.safetensors",
-            0.5
-        ],
          [
             true,
             "mymj.safetensors",
             0.1
         ],
+          [
+            true,
+            "None",
+            
          [
             true,
             "None",
@@ -46,7 +45,6 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "Hyper-SDXL-8steps-lora.safetensors": "https://huggingface.co/rafiislam/Lora/resolve/main/Hyper-SDXL-8steps-lora.safetensors",
         "mymj.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/mymj.safetensors"
     },
     "previous_default_models": [
