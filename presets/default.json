@@ -1,5 +1,5 @@
 {
-    "default_model": "RakibuniverseV3.safetensors",
+    "default_model": "epicFantasyVision_epicFantasyVision.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -9,9 +9,9 @@
             0.1
         ],
             
-         [
+      [
             true,
-            "Hyper-SDXL-8steps-CFG-lora.safetensors",
+            "None",
             1.0
         ],
         [
@@ -39,20 +39,18 @@
     "default_prompt": "",
     "default_prompt_negative": "worst quality, low quality, lowres, text, error, cropped, multiple views, jpeg artifacts, signature, watermark, username, blurry",
     "default_styles": [
-        "Fooocus V2",
-        "Cinematic"
+        "Fooocus V2"
     ],
     "default_aspect_ratio": "1216*832",
     "checkpoint_downloads": {
-        "RakibuniverseV3.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/RakibuniverseV3.safetensors"
+        "epicFantasyVision_epicFantasyVision.safetensors": "https://huggingface.co/rafiislam/mixhyper/resolve/main/epicFantasyVision_epicFantasyVision.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "mymj.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/mymj.safetensors",
-        "Hyper-SDXL-8steps-CFG-lora.safetensors": "https://huggingface.co/ByteDance/Hyper-SD/resolve/main/Hyper-SDXL-8steps-CFG-lora.safetensors"
+        "mymj.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/mymj.safetensors"
     },
     "previous_default_models": [
-        "RakibuniverseV3.safetensors",
+        "epicFantasyVision_epicFantasyVision.safetensors",
         "juggernautXL_v6Rundiffusion.safetensors"
     ]
 }
