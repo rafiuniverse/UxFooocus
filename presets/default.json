@@ -1,5 +1,5 @@
 {
-    "default_model": "epicFantasyVision_epicFantasyVision.safetensors",
+    "default_model": "rakibuniverselightv6.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -43,14 +43,14 @@
     ],
     "default_aspect_ratio": "1216*832",
     "checkpoint_downloads": {
-        "epicFantasyVision_epicFantasyVision.safetensors": "https://huggingface.co/rafiislam/mixhyper/resolve/main/epicFantasyVision_epicFantasyVision.safetensors"
+        "rakibuniverselightv6.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/rakibuniverselightv6.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "mymj.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/mymj.safetensors"
     },
     "previous_default_models": [
-        "epicFantasyVision_epicFantasyVision.safetensors",
+        "rakibuniverselightv6.safetensors",
         "juggernautXL_v6Rundiffusion.safetensors"
     ]
 }
