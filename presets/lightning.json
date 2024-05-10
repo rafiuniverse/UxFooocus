@@ -1,5 +1,5 @@
 {
-    "default_model": "RakibuniverseV3.safetensors",
+    "default_model": "rakibuniverselightv6.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -40,14 +40,14 @@
         "Fooocus V2",
         "Cinematic"
     ],
-    "default_aspect_ratio": "1152*896",
+    "default_aspect_ratio": "1216*832",
     "checkpoint_downloads": {
-        "RakibuniverseV3.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/RakibuniverseV3.safetensors"
+        "rakibuniverselightv6.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/rakibuniverselightv6.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
     "previous_default_models": [
-        "RakibuniverseV3.safetensors",
+        "rakibuniverselightv6.safetensors",
         "juggernautXL_version7Rundiffusion.safetensors",
         "juggernautXL_v7Rundiffusion.safetensors",
         "juggernautXL_version6Rundiffusion.safetensors",
