@@ -43,7 +43,8 @@
     ],
     "default_aspect_ratio": "1216*832",
     "checkpoint_downloads": {
-        "rakibuniverselightv6.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/rakibuniverselightv6.safetensors"
+        "rakibuniverselightv6.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/rakibuniverselightv6.safetensors",
+        "Rakibuniverse.V2.1.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/Rakibuniverse.V2.1.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
@@ -51,6 +52,6 @@
     },
     "previous_default_models": [
         "rakibuniverselightv6.safetensors",
-        "juggernautXL_v6Rundiffusion.safetensors"
+        "Rakibuniverse.V2.1.safetensors"
     ]
 }
