@@ -39,7 +39,8 @@
     "default_prompt": "",
     "default_prompt_negative": "worst quality, low quality, lowres, text, error, cropped, multiple views, jpeg artifacts, signature, watermark, username, blurry",
     "default_styles": [
-        "Fooocus V2"
+        "Fooocus V2",
+        "Photographic"
     ],
     "default_aspect_ratio": "1216*832",
     "checkpoint_downloads": {
