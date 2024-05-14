@@ -42,7 +42,7 @@
         "Fooocus V2",
         "Photographic"
     ],
-    "default_aspect_ratio": "1216*832",
+    "default_aspect_ratio": "832*1216",
     "checkpoint_downloads": {
        "Rakibuniverse.V2.1.safetensors": "https://huggingface.co/rafiislam/RakibUniverse/resolve/main/Rakibuniverse.V2.1.safetensors"
     },
