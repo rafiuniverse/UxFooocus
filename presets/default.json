@@ -52,7 +52,7 @@
         "": ""
     },
     "previous_default_models": [
-        "rakibuniverselightv6.safetensors",
+        "rakibuniverse_lighting_v11.safetensors",
         "Rakibuniverse.V2.1.safetensors"
     ]
 }
