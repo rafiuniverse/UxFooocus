@@ -1239,5 +1239,175 @@
         "name": "Editorial Photography",
         "prompt": "Editorial Photography, {prompt}, storytelling, thematic elements, professional lighting, creative concepts",
         "negative_prompt": "boring, uninspired, poorly composed, flat"
+    },
+   {
+        "name": "Portrait Photography",
+        "prompt": "Portrait Photography, {prompt}, high-resolution, detailed facial features, natural light, studio lighting, expressive, candid shots",
+        "negative_prompt": "blurry, overexposed, harsh shadows, unnatural poses"
+    },
+    {
+        "name": "Landscape Photography",
+        "prompt": "Landscape Photography, {prompt}, wide-angle, panoramic views, vibrant colors, natural scenery, breathtaking vistas, golden hour",
+        "negative_prompt": "flat, dull, overprocessed, featureless"
+    },
+    {
+        "name": "Street Photography",
+        "prompt": "Street Photography, {prompt}, candid moments, urban environment, dynamic compositions, human interactions, black and white, raw emotions",
+        "negative_prompt": "staged, artificial, boring, lifeless"
+    },
+    {
+        "name": "Macro Photography",
+        "prompt": "Macro Photography, {prompt}, extreme close-ups, intricate details, high magnification, textures, natural subjects, shallow depth of field",
+        "negative_prompt": "blurred, noisy, uninteresting, low resolution"
+    },
+    {
+        "name": "Wildlife Photography",
+        "prompt": "Wildlife Photography, {prompt}, natural habitats, animal behavior, high-speed shots, telephoto lens, vibrant and dynamic",
+        "negative_prompt": "distorted, blurry, dull, indistinct"
+    },
+    {
+        "name": "Architectural Photography",
+        "prompt": "Architectural Photography, {prompt}, building structures, geometric lines, symmetry, cityscapes, detailed, artistic perspectives",
+        "negative_prompt": "warped, crooked, low resolution, boring"
+    },
+    {
+        "name": "Astrophotography",
+        "prompt": "Astrophotography, {prompt}, starry night sky, Milky Way, long exposure, deep space, celestial bodies, vibrant colors",
+        "negative_prompt": "grainy, noisy, underexposed, uninspiring"
+    },
+    {
+        "name": "Food Photography",
+        "prompt": "Food Photography, {prompt}, delicious, appetizing, vibrant colors, detailed textures, artistic plating, high-resolution",
+        "negative_prompt": "unappetizing, bland, poorly lit, low resolution"
+    },
+    {
+        "name": "Fashion Photography",
+        "prompt": "Fashion Photography, {prompt}, high fashion, editorial style, dynamic poses, glamorous, vibrant colors, studio lighting",
+        "negative_prompt": "boring, unflattering, poorly lit, outdated"
+    },
+    {
+        "name": "Black and White Photography",
+        "prompt": "Black and White Photography, {prompt}, high contrast, dramatic lighting, textures, moody, timeless, fine art",
+        "negative_prompt": "dull, low contrast, uninspiring, noisy"
+    },
+    {
+        "name": "Sports Photography",
+        "prompt": "Sports Photography, {prompt}, action shots, high-speed, dynamic movements, vibrant, intense moments, telephoto lens",
+        "negative_prompt": "blurry, out of focus, unexciting, dull"
+    },
+    {
+        "name": "Underwater Photography",
+        "prompt": "Underwater Photography, {prompt}, marine life, vibrant colors, clear water, dynamic compositions, coral reefs, underwater flora",
+        "negative_prompt": "murky, blurry, colorless, boring"
+    },
+    {
+        "name": "Aerial Photography",
+        "prompt": "Aerial Photography, {prompt}, bird's-eye view, sweeping landscapes, cityscapes, drone shots, high-resolution, panoramic views",
+        "negative_prompt": "low resolution, distorted, uninteresting, flat"
+    },
+    {
+        "name": "Event Photography",
+        "prompt": "Event Photography, {prompt}, candid moments, dynamic compositions, vibrant, engaging, professional lighting, capturing emotions",
+        "negative_prompt": "boring, poorly lit, blurry, uninspired"
+    },
+    {
+        "name": "Documentary Photography",
+        "prompt": "Documentary Photography, {prompt}, storytelling, raw emotions, candid moments, social issues, black and white, powerful imagery",
+        "negative_prompt": "staged, fake, uninspired, lifeless"
+    },
+    {
+        "name": "Conceptual Photography",
+        "prompt": "Conceptual Photography, {prompt}, abstract ideas, creative compositions, surreal, artistic, thought-provoking, high-concept",
+        "negative_prompt": "mundane, literal, uninspired, boring"
+    },
+    {
+        "name": "Travel Photography",
+        "prompt": "Travel Photography, {prompt}, exotic locations, vibrant cultures, dynamic compositions, natural beauty, high-resolution, capturing moments",
+        "negative_prompt": "bland, uninspiring, poorly composed, dull"
+    },
+    {
+        "name": "Night Photography",
+        "prompt": "Night Photography, {prompt}, low light, vibrant cityscapes, long exposure, starry skies, dramatic lighting, high-resolution",
+        "negative_prompt": "grainy, noisy, underexposed, blurry"
+    },
+    {
+        "name": "Fashion Editorial Photography",
+        "prompt": "Fashion Editorial Photography, {prompt}, high fashion, creative styling, dynamic poses, glamorous, vibrant colors, studio lighting",
+        "negative_prompt": "boring, unflattering, poorly lit, outdated"
+    },
+    {
+        "name": "Fine Art Photography",
+        "prompt": "Fine Art Photography, {prompt}, artistic compositions, creative concepts, high-resolution, dramatic lighting, timeless, expressive",
+        "negative_prompt": "dull, uninspired, poorly composed, mundane"
+    },
+    {
+        "name": "Boudoir Photography",
+        "prompt": "Boudoir Photography, {prompt}, intimate, sensual, tasteful, high-resolution, flattering lighting, elegant, confident poses",
+        "negative_prompt": "crude, unflattering, poorly lit, uncomfortable"
+    },
+    {
+        "name": "Nature Photography",
+        "prompt": "Nature Photography, {prompt}, vibrant colors, natural landscapes, wildlife, high-resolution, dynamic compositions, serene",
+        "negative_prompt": "bland, flat, uninspiring, poorly composed"
+    },
+    {
+        "name": "Editorial Photography",
+        "prompt": "Editorial Photography, {prompt}, storytelling, dynamic compositions, vibrant, engaging, high-resolution, professional lighting",
+        "negative_prompt": "boring, poorly lit, uninspired, flat"
+    },
+    {
+        "name": "Pet Photography",
+        "prompt": "Pet Photography, {prompt}, vibrant, playful, high-resolution, capturing personality, dynamic compositions, natural light",
+        "negative_prompt": "blurry, dull, poorly lit, uninspired"
+    },
+    {
+        "name": "Commercial Photography",
+        "prompt": "Commercial Photography, {prompt}, professional, high-resolution, dynamic compositions, vibrant colors, product-focused, studio lighting",
+        "negative_prompt": "unprofessional, poorly lit, dull, uninspired"
+    },
+    {
+        "name": "Abstract Photography",
+        "prompt": "Abstract Photography, {prompt}, creative compositions, vibrant colors, high-resolution, artistic, thought-provoking, unique perspectives",
+        "negative_prompt": "mundane, literal, uninspired, boring"
+    },
+    {
+        "name": "Minimalist Photography",
+        "prompt": "Minimalist Photography, {prompt}, clean lines, simple compositions, high-resolution, negative space, subtle colors, artistic",
+        "negative_prompt": "cluttered, chaotic, uninspired, dull"
+    },
+    {
+        "name": "Vintage Photography",
+        "prompt": "Vintage Photography, {prompt}, nostalgic, sepia tones, film grain, high-resolution, classic compositions, timeless",
+        "negative_prompt": "modern, overly processed, uninspired, flat"
+    },
+    {
+        "name": "Lifestyle Photography",
+        "prompt": "Lifestyle Photography, {prompt}, candid moments, vibrant colors, high-resolution, natural light, dynamic compositions, capturing everyday life",
+        "negative_prompt": "staged, artificial, boring, lifeless"
+    },
+    {
+        "name": "Product Photography",
+        "prompt": "Product Photography, {prompt}, high-resolution, dynamic compositions, vibrant colors, detailed textures, studio lighting, professional",
+        "negative_prompt": "blurry, unprofessional, poorly lit, dull"
+    },
+    {
+        "name": "Adventure Photography",
+        "prompt": "Adventure Photography, {prompt}, high-resolution, dynamic compositions, vibrant colors, natural landscapes, capturing action, thrilling",
+        "negative_prompt": "boring, dull, poorly composed, uninspired"
+    },
+    {
+        "name": "Environmental Photography",
+        "prompt": "Environmental Photography, {prompt}, high-resolution, natural landscapes, vibrant colors, dynamic compositions, capturing ecosystems, impactful",
+        "negative_prompt": "flat, dull, uninspired, poorly composed"
+    },
+    {
+        "name": "Artistic Nude Photography",
+        "prompt": "Artistic Nude Photography, {prompt}, tasteful, high-resolution, flattering lighting, dynamic compositions, elegant, expressive",
+        "negative_prompt": "crude, unflattering, poorly lit, uncomfortable"
+    },
+    {
+        "name": "Photojournalism",
+        "prompt": "Photojournalism, {prompt}, storytelling, high-resolution, capturing moments, raw emotions, dynamic compositions, impactful",
+        "negative_prompt": "staged, artificial, boring, lifeless"
     }
 ]
