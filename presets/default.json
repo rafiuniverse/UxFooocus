@@ -44,8 +44,7 @@
     ],
     "default_aspect_ratio": "832*1216",
     "checkpoint_downloads": {
-       "rakibuniverse_v10.safetensors": "https://huggingface.co/rakib-bd/rakibuniverse_lighting/resolve/main/rakibuniverse_v10.safetensors",
-        "rakibuniverse_lighting_v11.safetensors": "https://huggingface.co/rakib-bd/rakibuniverse_lighting/resolve/main/rakibuniverse_lighting_v11.safetensors"
+       "rakibuniverse_v10.safetensors": "https://huggingface.co/rakib-bd/rakibuniverse_lighting/resolve/main/rakibuniverse_v10.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
