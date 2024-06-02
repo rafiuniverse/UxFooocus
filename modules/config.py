@@ -409,7 +409,7 @@ embeddings_downloads = get_config_item_or_set_default(
 available_aspect_ratios = get_config_item_or_set_default(
     key='available_aspect_ratios',
     default_value=[
-         '1216*832','832*1216','1024*1024','1280*768','768*1280'
+         '1216*832','832*1216','1024*1024','1280*768','768*1280','576*1024'
     ],
     validator=lambda x: isinstance(x, list) and all('*' in v for v in x) and len(x) > 1
 )
